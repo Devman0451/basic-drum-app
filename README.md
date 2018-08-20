@@ -1,1 +1,1 @@
-# basic-drum-app
+Basic drum app using JavaScript
